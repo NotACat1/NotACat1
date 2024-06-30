@@ -56,16 +56,6 @@ I am a FrontEnd developer with a passion for creating new interactive web applic
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotACat1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img>
-
-<details open><summary>Full year calendar</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
-
-<details open><summary>Languages from star lists</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.starlists.languages.svg" alt=""></img></details>
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
 ## 📫 Contact Me
 
 - Telegram: [@NotACat2](https://t.me/NotACat2)

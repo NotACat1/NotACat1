@@ -13,6 +13,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=NotACat1&style=flat-square&color=blue" alt=""/>
+</div>
+
 ## 🚀 About Me
 
 I am a FrontEnd developer with a passion for creating new interactive web applications. Every day, I strive to improve my skills and learn something new. I believe that every line of code can change the world for the better!
@@ -48,7 +52,18 @@ I am a FrontEnd developer with a passion for creating new interactive web applic
 
 ## 📈 GitHub statistics
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NotACat1&border_radius=4.8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotACat1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img>
+
+<details open><summary>Full year calendar</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
+
+<details open><summary>Languages from star lists</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.starlists.languages.svg" alt=""></img></details>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## 📫 Contact Me
 

@@ -1,70 +1,148 @@
-# Hi there, I’m **Ryabov Daniil** 👋
+<!-- Header Animation -->
+<div align="center">
+  <a href="https://github.com/NotACat1">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=41CD52&center=true&vCenter=true&width=800&lines=C%2B%2B+%2F+Qt+Software+Engineer;High-Performance+Computing+Developer;GPU+Programming+Enthusiast;Clean+Architecture+Advocate" alt="Typing SVG" />
+  </a>
+</div>
 
-💻 **Web Artisan** | ⚙ **C++ Engineer** | 🎨 **UI Enthusiast**
+<!-- Stats -->
+<div align="center">
+  <a href="https://github.com/NotACat1" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=NotACat1&label=Profile%20views&color=41CD52&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/NotACat1?tab=repositories&sort=stargazers" target="_blank">
+    <img src="https://img.shields.io/github/stars/NotACat1?style=for-the-badge&label=Stars&color=00599C&logo=github" />
+  </a>
+  <a href="https://github.com/NotACat1?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/NotACat1?style=for-the-badge&label=Followers&color=282C34&logo=github" />
+  </a>
+</div>
 
----
+<br>
 
-## 🌟 About Me
+<!-- About -->
+<img align="right" alt="coding-gif" width="300" src="coding.gif?raw=true" />
 
-I’m a **full-stack developer** who thrives at the intersection of **beautiful design** and **solid engineering**.
-My toolbox covers both **cutting-edge web frameworks** and **battle-tested C++ technologies**, allowing me to craft experiences that are:
+<h3>💫 About Me</h3>
 
-* **Fast** ⚡ — optimized from UI to backend
-* **Elegant** 🎨 — clean design, thoughtful UX
-* **Reliable** 🛡 — tested, maintainable, and future-proof
+🚀 Dedicated **C++ / Qt Developer** building high-performance desktop applications.  
 
-I believe code is more than instructions for a machine — it’s **a story we tell to both humans and computers**.
+💻 Strong expertise in **Qt (Widgets & QML)**, multithreading, system architecture and low-level optimization.  
 
----
+⚡ Focused on **performance, parallelism and GPU computing**.  
 
-## 🛠️ Tech Arsenal
+🌱 Currently exploring: **Modern C++23, CUDA, OpenCL, Design Patterns, Linux internals**.
 
-### **Frontend (Web)**
-
-* **React** & **Vue** — building dynamic, high-performance UIs
-* **State Management** — Redux, Vuex, Pinia
-* **UI Styling** — TailwindCSS, SCSS, Bootstrap
-* **APIs** — REST, WebSockets
-* **Testing** — Jest, Cypress
-
-### **Desktop (C++)**
-
-* **Qt Framework** — cross-platform, high-performance GUI development
-* **QML** — fluid, animated, and modern user interfaces
-* **Performance Optimization** — multithreading, memory management
-* **Integration** — working with hardware, native OS APIs
-
----
-
-## 🚀 What I’m Doing Right Now
-
-* Experimenting with **blending web and native apps** for seamless cross-platform experiences.
-* Building tools that make **data interaction intuitive** and **beautiful**.
-* Learning more about **microfrontends** and **next-gen UI patterns**.
+<br clear="both">
 
 ---
 
-## 📊 GitHub Stats
+<!-- Education Section -->
+<h3 align="center">🎓 Education</h3>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NotACat1\&show_icons=true\&theme=react\&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NotACat1\&layout=compact\&theme=react\&hide_border=true)
+<table align="center" width="100%" cellpadding="10">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="MPEI.jpg" width="50" alt="MPEI Logo" />
+      <br><br>
+      <b>Master’s Degree in High-Performance Computing Systems</b>
+      <br>
+      <i>Moscow Power Engineering Institute (MPEI)</i>
+      <br>
+      <small>2024 – 2026</small>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="MPEI.jpg" width="50" alt="MPEI Logo" />
+      <br><br>
+      <b>Bachelor’s Degree in Computer-Aided Design Systems</b>
+      <br>
+      <i>Moscow Power Engineering Institute (MPEI)</i>
+      <br>
+      <small>2019 – 2024</small>
+    </td>
+  </tr>
+</table>
+
+<!-- Courses Section -->
+<h3 align="center">📜 Courses & Certifications</h3>
+
+<table align="center" width="100%" cellpadding="10">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="Prakticum.jpg" width="40" alt="Yandex Practicum Logo" />
+      <br><br>
+      <b>Web Developer Plus</b>
+      <br>
+      <i>Yandex Practicum</i>
+      <br>
+      <small>2023 – 2024</small>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="MPEI.jpg" width="40" alt="MPEI Logo" />
+      <br><br>
+      <b>Project Management: Essentials & Digital Services</b>
+      <br>
+      <i>Moscow Power Engineering Institute (MPEI)</i>
+      <br>
+      <small>2024</small>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🎯 My Development Philosophy
+<h3 align="center">💻 Core Tech Stack</h3>
 
-> *“Good code is like a good joke — it needs no explanation.”*
+<div align="center">
 
-* **Design-first thinking** — UI/UX is not an afterthought.
-* **Maintainability over hacks** — future developers (including me) will thank me.
-* **Performance as a feature** — speed is part of user experience.
+<img src="https://img.shields.io/badge/C++17/20/23-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Qt_Framework-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+<img src="https://img.shields.io/badge/QML-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+<img src="https://img.shields.io/badge/STL-00599C?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=black" />
+<img src="https://img.shields.io/badge/OpenCL-ED1C24?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Multithreading-2C3E50?style=for-the-badge" />
+<img src="https://img.shields.io/badge/High_Performance-1E8449?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Embedded-34495E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Unit_Testing-D32F2F?style=for-the-badge" />
+
+</div>
 
 ---
 
-## 📫 Let’s Connect
+<h3 align="center">🛠️ Tools & Environments</h3>
 
-**Email**: [notacat.mail@gmail.com](notacat.mail@gmail.com)
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,cmake,qt,linux,windows,ubuntu,debian,docker" />
+<br>
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,clion,git,github,gitlab,bash,sqlite" />
+
+</div>
 
 ---
 
-💡 *If you’ve read this far, you’re probably as passionate about great software as I am — let’s build something amazing together!*
+<h3 align="center">📈 GitHub Analytics</h3>
+
+<div align="center">
+  <img width="398" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=NotACat1&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />
+  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=NotACat1&theme=nord&hide_border=false" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2" />
+  <p>
+    <i>"Code is like humor. When you have to explain it, it’s bad."</i><br>
+    Professional <b>C++ / Qt / HPC</b> profile.
+  </p>
+</div>

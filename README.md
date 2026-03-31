@@ -134,7 +134,7 @@
 
 <div align="center">
   <img width="398" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=NotACat1&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />
-  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=NotACat1&theme=nord&hide_border=false" />
+  <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=NotACat1&theme=nord" />
 </div>
 
 ---
